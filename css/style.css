@@ -1,0 +1,40 @@
+#navbr{
+    z-index: 999;
+}
+.btn-danger{
+    margin: 2px;
+    min-width: 170px ;
+    padding: 6px;
+   
+}
+#border{
+    min-height: 272px;
+}
+#navbar{
+    background-color:#1D3557;
+    color: azure;
+}
+#navbar a{
+    color: white;
+}
+body{
+    background-color: #F1FAEE;
+}
+#color, a{
+    background-color:#1D3557 ;
+    color: white ;
+}
+footer{
+    height: 40px;
+   
+}
+footer p{
+    line-height: 40px;
+}
+#sheikh{
+    line-height: 40px;
+}
+#color2{
+   background-color:  #1D3557;
+   color: whitesmoke;   
+}
